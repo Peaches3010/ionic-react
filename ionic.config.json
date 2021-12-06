@@ -1,0 +1,7 @@
+{
+  "name": "rausach-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
